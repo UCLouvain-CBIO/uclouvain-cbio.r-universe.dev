@@ -1,14 +1,47 @@
 [
     {
         "package": "rWSBIM1207",
+        "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
         "url": "https://github.com/UCLouvain-CBIO/rWSBIM1207"
     },
     {
         "package": "rWSBIM1322",
+        "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
         "url": "https://github.com/UCLouvain-CBIO/rWSBIM1322"
     },
     {
-        "package": "rWSBIM2122",
+        "package": "rWSBIM2122",    
+        "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
         "url": "https://github.com/UCLouvain-CBIO/rWSBIM2122"
-    }
+    },
+  {
+    "package": "CTdata",
+    "maintainer": "Laurent Gatto <laurent.gatto@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/ctdata",
+    "registry": "bioc"
+  },
+  {
+    "package": "CTexploreR",
+    "maintainer": "Axelle Loriot <axelle.loriot@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/ctexplorer",
+    "registry": "bioc"
+  },
+  {
+    "package": "CytoPipeline",
+    "maintainer": "Philippe Hauchamps <philippe.hauchamps@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/cytopipeline",
+    "registry": "bioc"
+  },
+  {
+    "package": "scp",
+    "maintainer": "Christophe Vanderaa <christophe.vanderaa@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/scp",
+    "registry": "bioc"
+  },
+  {
+    "package": "scpdata",
+    "maintainer": "Christophe Vanderaa <christophe.vanderaa@uclouvain.be>",
+    "url": "https://github.com/uclouvain-cbio/scpdata",
+    "registry": "bioc"
+  }
 ]
